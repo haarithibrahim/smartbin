@@ -79,7 +79,7 @@ The system is built with a modular architecture consisting of the following comp
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/haarithibrahim/smartbin.git>
    cd waste_bin_iot_simulation
    ```
 
